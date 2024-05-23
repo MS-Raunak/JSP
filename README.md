@@ -34,12 +34,18 @@ Difference between Servlet and JSP
 
 Servlet                                                           JSP
 -----------------------------------------------------------------------------------------------------------------------------------
-1) Servlet is complete java technology                        - It allows to write java and html code together.
-2) It increase code complexity while writing html code.       - To writing java code and html code together is easy in JSP.
-3) It doesn't support TAGs                                    - JSP supports TAGS.
-4) Servlet is faster in performance.                          - It is slower.
-5) It supports all type of request.                           - It supports only http request.
-6) It doesn't have implicit objects.                          - It has implicit objects(such as request, response, out, config, application, pageContext, exception etc)
+1) Servlet is complete java technology
+- JSP allows to write java and html code together.
+2) Servlet increase code complexity while writing html code.
+ - JSP is easy to writing java code and html code together.
+3) Servlet doesn't support TAGs
+ - JSP supports TAGS.
+4) Servlet is faster in performance.
+- JSP is slower.
+5) Servlet supports all type of request.
+  - JSP supports only http request.
+6) Servlet doesn't have implicit objects.
+ - JSP have implicit objects(such as request, response, out, config, application, pageContext, exception etc)
 
 
 Above notes is enough for cracking any JSP interview.
