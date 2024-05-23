@@ -3,7 +3,7 @@ JSP
 JSP is a Server Side Programming technology which is used for creating dynamic webpages.
     - JSP internallu uses Servlet.
 
-Lifecycle of JSP:-
+Lifecycle of JSP
 ======================
 Step-1: Translation Process           - Java code seperated from jsp.
 Step-2: Compilation Process           - Java code compilation.
