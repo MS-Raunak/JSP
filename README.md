@@ -1,4 +1,5 @@
-JSP:- JSP is a Server Side Programming technology which is used for creating dynamic webpages.
+JSP:-
+JSP is a Server Side Programming technology which is used for creating dynamic webpages.
     - JSP internallu uses Servlet.
 
 Lifecycle of JSP:-
@@ -31,9 +32,6 @@ Common tags using in JSP to write java logic(code)
 
 Difference between Servlet and JSP
 ====================================
-
-Servlet                                                           JSP
------------------------------------------------------------------------------------------------------------------------------------
 1) Servlet is complete java technology
 - JSP allows to write java and html code together.
 2) Servlet increase code complexity while writing html code.
