@@ -1,4 +1,4 @@
-JSP:-
+JSP
 ==========
 JSP is a Server Side Programming technology which is used for creating dynamic webpages.
     - JSP internallu uses Servlet.
